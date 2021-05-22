@@ -3,7 +3,15 @@
 
 `netlify deploy --prod`
 
+
 publish website this url
+
+https://60a901d049457e1a56e3b161--restaurant-food-app.netlify.app/
+
+
+`https://restaurant-food-app.netlify.app`
+
+
 
 
 
